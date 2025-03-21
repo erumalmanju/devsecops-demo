@@ -100,8 +100,9 @@ function App() {
           <h1 className="text-3xl font-bold flex items-center justify-center gap-2">
             <Award className="h-8 w-8" />
             Artek Solutions Inc
-            Demo for DevSecOps
+            <Award className="h-8 w-8" />
           </h1>
+          <p className="text-indigo-200 mt-1"> Demo for DevSecOps</p>
           <p className="text-indigo-200 mt-1"> Tic Tac Toe - A classic game reimagined</p>
         </div>
         
